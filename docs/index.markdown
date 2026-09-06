@@ -11,7 +11,7 @@ layout: home
 
 I'm a first-year Civil and Environmental PhD candidate at MIT, working on problems in differential geometry, geometric analysis, and partial differential equations. My advisor is Prof. Benedetto Marelli.
 
-I grew up in Hong Kong. Before MIT, I studied at the Australian National University and the University of Melbourne.
+I grew up in Hong Kong. Before MIT, I studied at the University of California, San Diego. I pursued research under the supervision of Dr. Keith Joung at Arena Bioworks and Prof. Michael Springer at Harvard Medical School.
 
 # Research
 
