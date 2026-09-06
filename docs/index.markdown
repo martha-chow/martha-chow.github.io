@@ -9,7 +9,7 @@ layout: home
 <img style="float: right;" src="/files/eth.JPG" width="200">
 </p>
 
-I'm a fourth-year math PhD candidate at MIT, working on problems in differential geometry, geometric analysis, and partial differential equations. My advisor is Prof. William Minicozzi.
+I'm a first-year Civil and Environmental PhD candidate at MIT, working on problems in differential geometry, geometric analysis, and partial differential equations. My advisor is Prof. Benedetto Marelli.
 
 I grew up in Hong Kong. Before MIT, I studied at the Australian National University and the University of Melbourne.
 
