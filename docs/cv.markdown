@@ -12,5 +12,3 @@ permalink: /cv/
     title="Martha Chow Curriculum Vitae">
   </iframe>
 </div>
-
-</p>
