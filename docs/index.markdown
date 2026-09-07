@@ -6,7 +6,7 @@ layout: home
 ---
 
 <p align="center">
-<img style="float: right;" src="/files/marthawebsite.JPG" width="200">
+<img style="float: right;" src="/files/marthawebsite.jpg" width="200">
 </p>
 
 I am a first-year Civil and Environmental PhD student at MIT, working on bio-fabricated materials for preservation. I am a [Croucher Scholar](https://croucher.org.hk/en/fellows-and-scholars/martha-chow), advised by [Prof. Benedetto Marelli](https://marelli.mit.edu/).
