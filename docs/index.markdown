@@ -43,12 +43,13 @@ layout: home
   margin-top: 7px;
   font-size: 0.8em;
   color: #666;
+  line-height: 1.35;
 }
 
 .carousel-prev,
 .carousel-next {
   position: absolute;
-  top: 145px;
+  top: 130px;
   transform: translateY(-50%);
   background: rgba(255, 255, 255, 0.75);
   border: none;
@@ -84,7 +85,7 @@ layout: home
   background-color: #555;
 }
 
-/* Stack carousel above text on smaller screens */
+/* Stack carousel above bio on smaller screens */
 @media (max-width: 600px) {
   .intro-section {
     display: block;
@@ -105,66 +106,79 @@ layout: home
     <div class="photo-carousel">
 
       <div class="carousel-slide active">
-        <img src="{{ '/files/marthawebsite.jpg' | relative_url }}" alt="Photo 1">
-        <div class="carousel-caption">We love the Viaflo</div>
+        <img src="{{ '/files/marthawebsite.jpg' | relative_url }}" alt="Martha Chow in the lab">
+        <div class="carousel-caption">
+          We love the Viaflo
+        </div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/UCSD.jpg' | relative_url }}" alt="Photo 2">
-        <div class="carousel-caption">La Jolla, 2023. It was a double feature; my brother also graduated from high school that year</div>
+        <img src="{{ '/files/UCSD.jpg' | relative_url }}" alt="Martha Chow at UC San Diego">
+        <div class="carousel-caption">
+          La Jolla, 2023. It was a double feature; my brother also graduated from high school that year
+        </div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/Akbari.jpg' | relative_url }}" alt="Photo 2">
-        <div class="carousel-caption">Cool gene-edited bugs I got to work with at the Akbari Lab</div>
+        <img src="{{ '/files/Akbari.jpg' | relative_url }}" alt="Gene-edited insects at the Akbari Lab">
+        <div class="carousel-caption">
+          Cool gene-edited bugs I got to work with at the Akbari Lab
+        </div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/MIT.jpg' | relative_url }}" alt="Photo 4">
-        <div class="carousel-caption">This is fun until snow gets stuck up your jacket</div>
+        <img src="{{ '/files/MIT.jpg' | relative_url }}" alt="Martha Chow at MIT">
+        <div class="carousel-caption">
+          This is fun until snow gets stuck up your jacket
+        </div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/Mike.JPG' | relative_url }}" alt="Photo 5">
-        <div class="carousel-caption">Collaborated with the math department on this project</div>
-      </div>
-      
-
-      <div class="carousel-slide">
-        <img src="{{ '/files/roothairs.jpg' | relative_url }}" alt="Photo 6">
-        <div class="carousel-caption">Looking at soybean root hairs in Prof. Hon-ming Lam's lab</div>
+        <img src="{{ '/files/Mike.JPG' | relative_url }}" alt="Martha Chow with Mike">
+        <div class="carousel-caption">
+          Collaborated with the math department on this project
+        </div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/Jounglab.JPG' | relative_url }}" alt="Photo 7">
-        <div class="carousel-caption">Joung Lab Alumni! Some of the best people I know, all now doing awesome work across the US.</div>
+        <img src="{{ '/files/roothairs.jpg' | relative_url }}" alt="Soybean root hairs">
+        <div class="carousel-caption">
+          Looking at soybean root hairs in Prof. Hon-ming Lam's lab
+        </div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/HMS_Martha.JPG' | relative_url }}" alt="Photo 8">
-        <div class="carousel-caption">Mandatory photo.</div>
+        <img src="{{ '/files/Jounglab.JPG' | relative_url }}" alt="Joung Lab alumni">
+        <div class="carousel-caption">
+          Joung Lab Alumni! Some of the best people I know, all now doing awesome work across the US.
+        </div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/HMS.JPG' | relative_url }}" alt="Photo 9">
-        <div class="carousel-caption">The amazing scientists (and now friends) I met in the Springer Lab. Amogh and Bradley are definitely not wearing wigs.</div>
+        <img src="{{ '/files/HMS_Martha.JPG' | relative_url }}" alt="Martha Chow at Harvard Medical School">
+        <div class="carousel-caption">
+          Mandatory photo.
+        </div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/HML.jpg' | relative_url }}" alt="Photo 10">
-        <div class="carousel-caption">I'm from Hong Kong, of course I did research on soy sauce.</div>
+        <img src="{{ '/files/HMS.JPG' | relative_url }}" alt="Springer Lab group">
+        <div class="carousel-caption">
+          The amazing scientists (and now friends) I met in the Springer Lab. Amogh and Bradley are definitely not wearing wigs.
+        </div>
       </div>
-      
+
+      <div class="carousel-slide">
+        <img src="{{ '/files/HML.jpg' | relative_url }}" alt="Soy sauce research in Hong Kong">
+        <div class="carousel-caption">
+          I'm from Hong Kong, of course I did research on soy sauce.
+        </div>
+      </div>
+
       <button class="carousel-prev" onclick="changeSlide(-1)">&#10094;</button>
       <button class="carousel-next" onclick="changeSlide(1)">&#10095;</button>
 
-      <div class="carousel-dots">
-        <span class="carousel-dot active" onclick="showSlide(0)"></span>
-        <span class="carousel-dot" onclick="showSlide(1)"></span>
-        <span class="carousel-dot" onclick="showSlide(2)"></span>
-        <span class="carousel-dot" onclick="showSlide(3)"></span>
-        <span class="carousel-dot" onclick="showSlide(4)"></span>
-      </div>
+      <div class="carousel-dots"></div>
 
     </div>
 
@@ -181,11 +195,18 @@ layout: home
     </p>
 
     <p>
-      I grew up in Hong Kong and received my B.S. in Cell and Molecular Biology from the University of California, San Diego. During that time, I interned at <a href="https://www.sls.cuhk.edu.hk/profile/lam-hon-ming/">Prof. Hon-ming Lam's</a> lab at the Chinese University of Hong Kong, and completed my honors thesis under the supervision of <a href="https://www.akbarilab.com/people.html">Prof. Omar Akbari</a>.
+      I grew up in Hong Kong and received my B.S. in Cell and Molecular Biology from the University of California, San Diego. During that time, I interned at
+      <a href="https://www.sls.cuhk.edu.hk/profile/lam-hon-ming/">Prof. Hon-ming Lam's</a>
+      lab at the Chinese University of Hong Kong, and completed my honors thesis under the supervision of
+      <a href="https://www.akbarilab.com/people.html">Prof. Omar Akbari</a>.
     </p>
-    
+
     <p>
-      Before MIT, I trained with <a href="https://www.jounglab.org/">Dr. Keith Joung</a> at Arena Bioworks, and <a href="https://www.springerlabhms.org/people">Prof. Michael Springer</a> at Harvard Medical School.
+      Before MIT, I trained with
+      <a href="https://www.jounglab.org/">Dr. Keith Joung</a>
+      at Arena Bioworks, and
+      <a href="https://www.springerlabhms.org/people">Prof. Michael Springer</a>
+      at Harvard Medical School.
     </p>
 
   </div>
@@ -203,8 +224,25 @@ layout: home
 <script>
 let currentSlide = 0;
 
+const slides = document.querySelectorAll(".carousel-slide");
+const dotsContainer = document.querySelector(".carousel-dots");
+
+slides.forEach((slide, index) => {
+  const dot = document.createElement("span");
+  dot.classList.add("carousel-dot");
+
+  if (index === 0) {
+    dot.classList.add("active");
+  }
+
+  dot.addEventListener("click", function() {
+    showSlide(index);
+  });
+
+  dotsContainer.appendChild(dot);
+});
+
 function showSlide(index) {
-  const slides = document.querySelectorAll(".carousel-slide");
   const dots = document.querySelectorAll(".carousel-dot");
 
   if (index >= slides.length) {
