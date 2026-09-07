@@ -182,7 +182,7 @@ layout: home
 
     <p>
       I grew up in Hong Kong and received my B.S. in Cell and Molecular Biology from the University of California, San Diego.
-      Before MIT, I trained under the supervision of Dr. Keith Joung at Arena Bioworks, and Prof. Michael Springer at Harvard Medical School.
+      Before MIT, I trained under the supervision of <a href="https://www.jounglab.org/">Dr. Keith Joung</a> at Arena Bioworks, and <a href="https://www.springerlabhms.org/people">Prof. Michael Springer</a> at Harvard Medical School.
     </p>
 
   </div>
