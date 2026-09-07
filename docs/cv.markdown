@@ -4,11 +4,12 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-<meta http-equiv="refresh" content="0; url=https://docs.google.com/document/d/1x4DcsM-So0TMrMdAHzfmVa3bU9DJVWq15srBWFwQGIA/export?format=pdf">
+<div style="width: 100%; height: 1100px;">
+  <iframe
+    src="https://docs.google.com/document/d/1x4DcsM-So0TMrMdAHzfmVa3bU9DJVWq15srBWFwQGIA/preview"
+    style="width: 100%; height: 100%; border: none;"
+    title="Martha Chow Curriculum Vitae">
+  </iframe>
+</div>
 
-<p>
-  Redirecting to my CV...
-  <a href="https://docs.google.com/document/d/1x4DcsM-So0TMrMdAHzfmVa3bU9DJVWq15srBWFwQGIA/export?format=pdf">
-    Click here if it does not open automatically.
-  </a>
 </p>
