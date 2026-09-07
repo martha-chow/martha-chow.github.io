@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Past projects
+title: <h1><i>Previous Research</i></h1>
 permalink: /cv/
 ---
 
