@@ -34,7 +34,7 @@ layout: home
 
 .carousel-slide img {
   width: 260px;
-  height: 320px;
+  height: 260px;
   object-fit: cover;
   border-radius: 6px;
 }
