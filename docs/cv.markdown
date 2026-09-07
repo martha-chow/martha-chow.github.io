@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h1><i>Previous Research</i></h1>
+title: Previous Research
 permalink: /cv/
 ---
 
