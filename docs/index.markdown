@@ -120,38 +120,38 @@ layout: home
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/MIT.jpg' | relative_url }}" alt="Photo 3">
+        <img src="{{ '/files/MIT.jpg' | relative_url }}" alt="Photo 4">
         <div class="carousel-caption">This is fun until snow gets stuck up your jacket</div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/Mike.JPG' | relative_url }}" alt="Photo 3">
+        <img src="{{ '/files/Mike.JPG' | relative_url }}" alt="Photo 5">
         <div class="carousel-caption">Collaborated with the math department on this project</div>
       </div>
       
 
       <div class="carousel-slide">
-        <img src="{{ '/files/roothairs.jpg' | relative_url }}" alt="Photo 4">
+        <img src="{{ '/files/roothairs.jpg' | relative_url }}" alt="Photo 6">
         <div class="carousel-caption">Looking at soybean root hairs in Prof. Hon-ming Lam's lab</div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/Jounglab.JPG' | relative_url }}" alt="Photo 5">
+        <img src="{{ '/files/Jounglab.JPG' | relative_url }}" alt="Photo 7">
         <div class="carousel-caption">Joung Lab Alumni! Some of the best people I know, all now doing awesome work across the US.</div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/HMS_Martha.JPG' | relative_url }}" alt="Photo 5">
+        <img src="{{ '/files/HMS_Martha.JPG' | relative_url }}" alt="Photo 8">
         <div class="carousel-caption">Mandatory photo.</div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/HMS.JPG' | relative_url }}" alt="Photo 5">
+        <img src="{{ '/files/HMS.JPG' | relative_url }}" alt="Photo 9">
         <div class="carousel-caption">The amazing scientists (and now friends) I met in the Springer Lab. Amogh and Bradley are definitely not wearing wigs.</div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/HML.jpg' | relative_url }}" alt="Photo 5">
+        <img src="{{ '/files/HML.jpg' | relative_url }}" alt="Photo 10">
         <div class="carousel-caption">I'm from Hong Kong, of course I did research on soy sauce.</div>
       </div>
       
@@ -174,15 +174,18 @@ layout: home
   <div class="bio-column">
 
     <p>
-      I am a first-year Civil and Environmental PhD student at MIT, working on bio-fabricated materials for preservation. I am a
+      I am a first-year Civil and Environmental PhD student at MIT, working on bio-fabricated materials for preserving and delivering biological cargos. I am a
       <a href="https://croucher.org.hk/en/fellows-and-scholars/martha-chow">Croucher Scholar</a>,
       advised by
       <a href="https://marelli.mit.edu/">Prof. Benedetto Marelli</a>.
     </p>
 
     <p>
-      I grew up in Hong Kong and received my B.S. in Cell and Molecular Biology from the University of California, San Diego.
-      Before MIT, I trained under the supervision of <a href="https://www.jounglab.org/">Dr. Keith Joung</a> at Arena Bioworks, and <a href="https://www.springerlabhms.org/people">Prof. Michael Springer</a> at Harvard Medical School.
+      I grew up in Hong Kong and received my B.S. in Cell and Molecular Biology from the University of California, San Diego. During that time, I interned at <a href="https://www.sls.cuhk.edu.hk/profile/lam-hon-ming/">Prof. Hon-ming Lam's</a> lab at the Chinese University of Hong Kong, and completed my honors thesis under the supervision of <a href="https://www.akbarilab.com/people.html">Prof. Omar Akbari</a>.
+    </p>
+    
+    <p>
+      Before MIT, I trained with <a href="https://www.jounglab.org/">Dr. Keith Joung</a> at Arena Bioworks, and <a href="https://www.springerlabhms.org/people">Prof. Michael Springer</a> at Harvard Medical School.
     </p>
 
   </div>
