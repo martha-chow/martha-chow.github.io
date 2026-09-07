@@ -115,7 +115,7 @@ layout: home
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/Akbari.heic' | relative_url }}" alt="Photo 2">
+        <img src="{{ '/files/Akbari.jpg' | relative_url }}" alt="Photo 2">
         <div class="carousel-caption">Cool gene-edited bugs I got to work with at the Akbari Lab</div>
       </div>
 
@@ -125,13 +125,13 @@ layout: home
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/Mike.jpg' | relative_url }}" alt="Photo 3">
+        <img src="{{ '/files/Mike.JPG' | relative_url }}" alt="Photo 3">
         <div class="carousel-caption">Collaborated with the math department on this project</div>
       </div>
       
 
       <div class="carousel-slide">
-        <img src="{{ '/files/roothairs.HEIC.jpg' | relative_url }}" alt="Photo 4">
+        <img src="{{ '/files/roothairs.jpg' | relative_url }}" alt="Photo 4">
         <div class="carousel-caption">Looking at soybean root hairs in Prof. Hon-ming Lam's lab</div>
       </div>
 
@@ -146,7 +146,7 @@ layout: home
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/HMS.jpg' | relative_url }}" alt="Photo 5">
+        <img src="{{ '/files/HMS.JPG' | relative_url }}" alt="Photo 5">
         <div class="carousel-caption">The amazing scientists (and now friends) I met in the Springer Lab. Amogh and Bradley are definitely not wearing wigs.</div>
       </div>
 
