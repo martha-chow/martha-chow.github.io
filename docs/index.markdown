@@ -6,10 +6,10 @@ layout: home
 ---
 
 <p align="center">
-<img style="float: right;" src="/files/eth.JPG" width="200">
+<img style="float: right;" src="/files/marthawebsite.JPG" width="200">
 </p>
 
-I am a first-year Civil and Environmental PhD student at MIT, working on bio-fabricated materials for preservation. I am a [Croucher Scholar](https://croucher.org.hk/en/fellows-and-scholars/martha-chow), advised by [[Prof. Benedetto Marelli]](https://marelli.mit.edu/).
+I am a first-year Civil and Environmental PhD student at MIT, working on bio-fabricated materials for preservation. I am a [Croucher Scholar](https://croucher.org.hk/en/fellows-and-scholars/martha-chow), advised by [Prof. Benedetto Marelli](https://marelli.mit.edu/).
 
 I grew up in Hong Kong and received my B.S. in Cell and Molecular Biology from the University of California, San Diego. Before MIT, I trained under the supervision of Dr. Keith Joung at Arena Bioworks, and Prof. Michael Springer at Harvard Medical School.
 
