@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-nav_title: Past projects
+nav_title: Previous Research
 permalink: /cv/
 ---
 
