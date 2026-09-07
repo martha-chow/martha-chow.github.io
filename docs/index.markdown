@@ -15,8 +15,8 @@ I grew up in Hong Kong and received my B.S. in Cell and Molecular Biology at the
 
 # Research
 
-1. [[Eliminating malaria vectors with precision-guided sterile males.]] (https://www.pnas.org/doi/10.1073/pnas.2312456121) (2nd co-author).<em> Proceedings of the National Academy of Sciences.<em> June 25, 2024.
-2. [[A natural non-synonymous single nucleotide polymorphism in GmbHLH113 negates its inhibitory effect on root hair elongation in soybean.]](https://onlinelibrary.wiley.com/share/C2TBCFJKKCA7VTYUXA8I?target=10.1111/tpj.16258) <em> The Plant Journal.<em> April 24, 2023.
+1. [[Eliminating malaria vectors with precision-guided sterile males.]](https://www.pnas.org/doi/10.1073/pnas.2312456121) (2nd co-author).<em> Proceedings of the National Academy of Sciences.<em> June 25, 2024.
+2. [[A natural non-synonymous single nucleotide polymorphism in GmbHLH113 negates its inhibitory effect on root hair elongation in soybean.]] (https://onlinelibrary.wiley.com/share/C2TBCFJKKCA7VTYUXA8I?target=10.1111/tpj.16258) <em> The Plant Journal.<em> April 24, 2023.
 
 
 
@@ -26,4 +26,4 @@ I grew up in Hong Kong and received my B.S. in Cell and Molecular Biology at the
 
 
 
-Thank you to Michael Law for letting me inherit this website. Congrats on 
+Thank you to Michael Law, Ph.D. (2027, Mathematics) for letting me inherit this website.
