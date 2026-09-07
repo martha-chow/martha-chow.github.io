@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: Past projects
 permalink: /cv/
 ---
 
