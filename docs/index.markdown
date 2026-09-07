@@ -110,25 +110,51 @@ layout: home
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/photo2.jpg' | relative_url }}" alt="Photo 2">
+        <img src="{{ '/files/UCSD.jpg' | relative_url }}" alt="Photo 2">
+        <div class="carousel-caption">La Jolla, 2023. It was a double feature; my brother also graduated from high school that year</div>
+      </div>
+
+      <div class="carousel-slide">
+        <img src="{{ '/files/Akbari.heic' | relative_url }}" alt="Photo 2">
         <div class="carousel-caption">Cool gene-edited bugs I got to work with at the Akbari Lab</div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/photo3.jpg' | relative_url }}" alt="Photo 3">
-        <div class="carousel-caption">Caption for photo 3</div>
+        <img src="{{ '/files/MIT.jpg' | relative_url }}" alt="Photo 3">
+        <div class="carousel-caption">This is fun until snow gets stuck up your jacket</div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/photo4.jpg' | relative_url }}" alt="Photo 4">
-        <div class="carousel-caption">Caption for photo 4</div>
+        <img src="{{ '/files/Mike.jpg' | relative_url }}" alt="Photo 3">
+        <div class="carousel-caption">Collaborated with the math department on this project</div>
+      </div>
+      
+
+      <div class="carousel-slide">
+        <img src="{{ '/files/roothairs.HEIC.jpg' | relative_url }}" alt="Photo 4">
+        <div class="carousel-caption">Looking at soybean root hairs in Prof. Hon-ming Lam's lab</div>
       </div>
 
       <div class="carousel-slide">
-        <img src="{{ '/files/photo5.jpg' | relative_url }}" alt="Photo 5">
-        <div class="carousel-caption">Caption for photo 5</div>
+        <img src="{{ '/files/Jounglab.JPG' | relative_url }}" alt="Photo 5">
+        <div class="carousel-caption">Joung Lab Alumni! Some of the best people I know, all now doing awesome work across the US.</div>
       </div>
 
+      <div class="carousel-slide">
+        <img src="{{ '/files/HMS_Martha.JPG' | relative_url }}" alt="Photo 5">
+        <div class="carousel-caption">Mandatory photo.</div>
+      </div>
+
+      <div class="carousel-slide">
+        <img src="{{ '/files/HMS.jpg' | relative_url }}" alt="Photo 5">
+        <div class="carousel-caption">The amazing scientists (and now friends) I met in the Springer Lab. Amogh and Bradley are definitely not wearing wigs.</div>
+      </div>
+
+      <div class="carousel-slide">
+        <img src="{{ '/files/HML.jpg' | relative_url }}" alt="Photo 5">
+        <div class="carousel-caption">I'm from Hong Kong, of course I did research on soy sauce.</div>
+      </div>
+      
       <button class="carousel-prev" onclick="changeSlide(-1)">&#10094;</button>
       <button class="carousel-next" onclick="changeSlide(1)">&#10095;</button>
 
